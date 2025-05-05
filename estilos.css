@@ -1,7 +1,14 @@
 body {
-    background-color: #f0f8ff;
+    background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
     font-family: Arial, sans-serif;
     color: #333;
     text-align: center;
     padding: 40px;
-    }
+}
+img{
+    height: 30%;
+    width: 30%;
+}
+div p{
+    text-decoration: underline;
+}
